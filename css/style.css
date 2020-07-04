@@ -1,0 +1,25 @@
+.row {
+	display: flex;
+}
+.header {
+	display: flex;
+	align-items: center
+}
+.header-menu ul {
+	display: flex;
+	list-style: none;
+	
+}
+.header-menu li {
+	margin-right: 5px
+}
+.products {
+	display: flex;
+}
+.social {
+	display: flex;
+	list-style: none;
+}
+.social li {
+	margin-right: 5px
+}
